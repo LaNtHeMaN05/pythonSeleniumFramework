@@ -1,0 +1,189 @@
+09/17/2022 07:23:58 PM: INFO: ====== WebDriver manager ======
+09/17/2022 07:23:58 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 07:23:58 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 07:23:59 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 07:23:59 PM: INFO: Driver Initiated Successfully
+09/17/2022 07:24:00 PM: INFO: Browser Window Maximized
+09/17/2022 07:24:00 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 07:24:04 PM: INFO: Clicking the Login Button
+09/17/2022 07:24:04 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 07:24:04 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 07:24:07 PM: INFO: ====== WebDriver manager ======
+09/17/2022 07:24:07 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 07:24:07 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 07:24:11 PM: INFO: COMPLETED
+09/17/2022 08:35:01 PM: INFO: ====== WebDriver manager ======
+09/17/2022 08:35:01 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 08:35:02 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 08:35:02 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 08:35:02 PM: INFO: Driver Initiated Successfully
+09/17/2022 08:35:03 PM: INFO: Browser Window Maximized
+09/17/2022 08:35:03 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 08:35:08 PM: INFO: Clicking the Login Button
+09/17/2022 08:35:09 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 08:35:09 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 08:35:09 PM: INFO: ====== WebDriver manager ======
+09/17/2022 08:35:09 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 08:35:09 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 08:35:13 PM: INFO: COMPLETED
+09/17/2022 08:37:45 PM: INFO: ====== WebDriver manager ======
+09/17/2022 08:37:45 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 08:37:45 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 08:37:46 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 08:37:46 PM: INFO: Driver Initiated Successfully
+09/17/2022 08:37:46 PM: INFO: Browser Window Maximized
+09/17/2022 08:37:46 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 08:37:52 PM: INFO: Clicking the Login Button
+09/17/2022 08:37:52 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 08:37:52 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 08:37:52 PM: INFO: ====== WebDriver manager ======
+09/17/2022 08:37:52 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 08:37:53 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 08:37:56 PM: INFO: COMPLETED
+09/17/2022 09:28:59 PM: INFO: ====== WebDriver manager ======
+09/17/2022 09:29:00 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 09:29:00 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 09:29:37 PM: INFO: ====== WebDriver manager ======
+09/17/2022 09:29:37 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 09:29:37 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 09:35:07 PM: INFO: ====== WebDriver manager ======
+09/17/2022 09:35:08 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 09:35:08 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 09:35:09 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 09:35:09 PM: INFO: Driver Initiated Successfully
+09/17/2022 09:35:09 PM: INFO: Browser Window Maximized
+09/17/2022 09:35:09 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 09:35:15 PM: INFO: Clicking the Login Button
+09/17/2022 09:35:15 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 09:35:15 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 09:35:15 PM: INFO: ====== WebDriver manager ======
+09/17/2022 09:35:15 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 09:35:16 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 09:35:17 PM: INFO: ******************Naveen Automation Labs Login Test************************
+09/17/2022 09:35:17 PM: INFO: Driver initialized Successfully
+09/17/2022 09:35:17 PM: INFO: Window maximized Successfully
+09/17/2022 09:35:19 PM: INFO: Navigated to the URL
+09/17/2022 09:35:20 PM: INFO: Navigated to the LOGIN PAGE
+09/17/2022 09:35:20 PM: INFO: Login Successful
+09/17/2022 10:19:27 PM: INFO: ====== WebDriver manager ======
+09/17/2022 10:19:27 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 10:19:28 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 10:19:29 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 10:19:29 PM: INFO: Driver Initiated Successfully
+09/17/2022 10:19:29 PM: INFO: Browser Window Maximized
+09/17/2022 10:19:29 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 10:19:33 PM: INFO: Clicking the Login Button
+09/17/2022 10:19:33 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 10:19:33 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 10:19:33 PM: INFO: ====== WebDriver manager ======
+09/17/2022 10:19:33 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 10:19:33 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 10:19:34 PM: INFO: ******************Naveen Automation Labs Login Test************************
+09/17/2022 10:19:34 PM: INFO: Driver initialized Successfully
+09/17/2022 10:19:34 PM: INFO: Window maximized Successfully
+09/17/2022 10:19:36 PM: INFO: Navigated to the URL
+09/17/2022 10:19:37 PM: INFO: Navigated to the LOGIN PAGE
+09/17/2022 10:19:38 PM: INFO: Login Successful
+09/17/2022 11:02:59 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:02:59 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:03:00 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 11:03:01 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 11:03:01 PM: INFO: Driver Initiated Successfully
+09/17/2022 11:03:01 PM: INFO: Browser Window Maximized
+09/17/2022 11:03:01 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 11:03:06 PM: INFO: Clicking the Login Button
+09/17/2022 11:03:06 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 11:03:06 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 11:03:06 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:03:07 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:03:07 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 11:03:08 PM: INFO: ******************Naveen Automation Labs Login Test************************
+09/17/2022 11:03:08 PM: INFO: Driver initialized Successfully
+09/17/2022 11:03:08 PM: INFO: Window maximized Successfully
+09/17/2022 11:03:11 PM: INFO: Navigated to the URL
+09/17/2022 11:03:11 PM: INFO: Navigated to the LOGIN PAGE
+09/17/2022 11:03:13 PM: INFO: Login Successful
+09/17/2022 11:03:13 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:03:13 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:03:13 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 11:04:05 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:04:05 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:04:05 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 11:04:06 PM: INFO: ******************* Admin Login Test - Started *******************
+09/17/2022 11:04:06 PM: INFO: Driver Initiated Successfully
+09/17/2022 11:04:06 PM: INFO: Browser Window Maximized
+09/17/2022 11:04:06 PM: INFO: URL,Username and Password fetched from excel
+09/17/2022 11:04:10 PM: INFO: Clicking the Login Button
+09/17/2022 11:04:10 PM: INFO: Login Successful, Saving Screenshot
+09/17/2022 11:04:10 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/17/2022 11:04:10 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:04:10 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:04:11 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/17/2022 11:04:12 PM: INFO: ******************Naveen Automation Labs Login Test************************
+09/17/2022 11:04:12 PM: INFO: Driver initialized Successfully
+09/17/2022 11:04:12 PM: INFO: Window maximized Successfully
+09/17/2022 11:04:15 PM: INFO: Navigated to the URL
+09/17/2022 11:04:15 PM: INFO: Navigated to the LOGIN PAGE
+09/17/2022 11:04:17 PM: INFO: Login Successful
+09/17/2022 11:04:17 PM: INFO: ====== WebDriver manager ======
+09/17/2022 11:04:17 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/17/2022 11:04:17 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/18/2022 12:45:15 PM: INFO: ====== WebDriver manager ======
+09/18/2022 12:45:15 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/18/2022 12:45:16 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+09/18/2022 12:45:17 PM: INFO: Driver has been saved in cache [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195]
+09/18/2022 12:45:18 PM: INFO: ******************* Admin Login Test - Started *******************
+09/18/2022 12:45:18 PM: INFO: Driver Initiated Successfully
+09/18/2022 12:45:18 PM: INFO: Browser Window Maximized
+09/18/2022 12:45:18 PM: INFO: URL,Username and Password fetched from excel
+09/18/2022 12:45:24 PM: INFO: Clicking the Login Button
+09/18/2022 12:45:24 PM: INFO: Login Successful, Saving Screenshot
+09/18/2022 12:45:24 PM: INFO: ******************* Admin Login Test - Passed *******************
+09/18/2022 12:45:24 PM: INFO: ====== WebDriver manager ======
+09/18/2022 12:45:24 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/18/2022 12:45:25 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/18/2022 12:45:26 PM: INFO: ******************Naveen Automation Labs Login Test************************
+09/18/2022 12:45:26 PM: INFO: Driver initialized Successfully
+09/18/2022 12:45:26 PM: INFO: Window maximized Successfully
+09/18/2022 12:45:29 PM: INFO: Navigated to the URL
+09/18/2022 12:45:29 PM: INFO: Navigated to the LOGIN PAGE
+09/18/2022 12:45:30 PM: INFO: Login Successful
+09/18/2022 12:45:30 PM: INFO: Passed Screenshot captured successfully
+09/18/2022 12:45:33 PM: INFO: ******************Naveen Automation Labs Login Rest - PASSED************
+09/18/2022 12:45:33 PM: INFO: ====== WebDriver manager ======
+09/18/2022 12:45:33 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/18/2022 12:45:33 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/18/2022 12:45:34 PM: INFO: *******************Sauce Labs Multi Login Test - STARTED****************
+09/18/2022 12:45:34 PM: INFO: Driver Initialized Successfully
+09/18/2022 12:45:34 PM: INFO: Window Maximized
+09/18/2022 12:45:34 PM: INFO: Max Row count from DDT Excel fetched
+09/18/2022 12:45:34 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 12:45:35 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 12:45:36 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 12:45:36 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 12:45:37 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 12:45:42 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 12:45:43 PM: INFO: ******************Sauce Labs Login test - PASSED*****************
+09/18/2022 01:40:52 PM: INFO: ====== WebDriver manager ======
+09/18/2022 01:40:52 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/18/2022 01:40:52 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/18/2022 01:40:53 PM: INFO: ******************* NOP ADD Customer - Started *******************
+09/18/2022 01:40:53 PM: INFO: Driver Initiated Successfully
+09/18/2022 01:40:53 PM: INFO: Browser Window Maximized
+09/18/2022 01:40:53 PM: INFO: URL,Username and Password fetched from excel
+09/18/2022 01:40:59 PM: INFO: Clicking the Login Button
+09/18/2022 01:40:59 PM: INFO: Login Successful, Saving Screenshot
+09/18/2022 10:28:11 PM: INFO: ====== WebDriver manager ======
+09/18/2022 10:28:11 PM: INFO: Get LATEST chromedriver version for google-chrome 105.0.5195
+09/18/2022 10:28:11 PM: INFO: Driver [C:\Users\lanaa\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+09/18/2022 10:28:12 PM: INFO: *******************Sauce Labs Multi Login Test - STARTED****************
+09/18/2022 10:28:12 PM: INFO: Driver Initialized Successfully
+09/18/2022 10:28:12 PM: INFO: Window Maximized
+09/18/2022 10:28:12 PM: INFO: Max Row count from DDT Excel fetched
+09/18/2022 10:28:12 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 10:28:13 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 10:28:14 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 10:28:14 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 10:28:15 PM: INFO: FOR loop to fetch the login details and perform Login
+09/18/2022 10:28:20 PM: INFO: Screenshot captured for current Login Details
+09/18/2022 10:28:21 PM: INFO: ******************Sauce Labs Login test - PASSED*****************
